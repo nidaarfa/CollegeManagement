@@ -1,0 +1,5 @@
+College Management System
+Student Name: nida
+Roll Number: 26
+Department: CSD
+Sem: 5
